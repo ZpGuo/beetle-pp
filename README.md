@@ -1,2 +1,2 @@
 # beetle-pp
-Distributed Spider Achieved By Golang. Go语言实现的分布式爬虫
+爬虫、数据分析工具，基于 python。
